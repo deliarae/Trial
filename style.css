@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500&family=Righteous&family=Voltaire&display=swap');
+
+body {
+    background: linear-gradient(120deg, bisque, brown)
+}
+
+* {
+    text-align: center;
+}
+
+header {
+    background-color: rgba(235, 210, 155, 0.3);
+}
+
+h1 {
+    border: 2px solid #703030;
+    padding: 10px;
+    margin: 1px;
+    text-align: center;
+    font-family: 'Barlow',
+        sans-serif;
+        font-family: 'Righteous', cursive;
+        font-family: 'Voltaire', sans-serif;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#hazza {
+    color: palevioletred;
+}
+
+.paragraphs {
+font-size: 18px;
+margin-top: 30px;
+}
+
+img {
+    max-width: 500px;
+    border: 2px solid #703030;
+}
+
+iframe {
+    max-width: 504px;
+    
+}
